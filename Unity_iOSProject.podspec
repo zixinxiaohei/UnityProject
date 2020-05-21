@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 专门为iOS和Unity桥接扩展
                    DESC
 
-  spec.homepage     = "https://github.com/zixinxiaohei/UnityProject.git"
+  spec.homepage     = "https://github.com/zixinxiaohei/UnityProject"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
