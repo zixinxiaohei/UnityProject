@@ -6,13 +6,13 @@
 //  Copyright © 2020 王立东. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ViewController1.h"
 
-@interface ViewController ()
+@interface ViewController1 ()
 
 @end
 
-@implementation ViewController
+@implementation ViewController1
 
 - (void)viewDidLoad {
     [super viewDidLoad];
