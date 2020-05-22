@@ -6,7 +6,7 @@
 //  Copyright © 2020 王立东. All rights reserved.
 //
 
-#import "AppDelegate.h1"
+#import "AppDelegate1.h"
 #import "ViewController1.h"
 @interface AppDelegate1 ()
 
