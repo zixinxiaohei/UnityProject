@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "Unity_iOSProject"
   spec.version      = "1.0.0"
-  spec.summary      = "一款专门为Unity转换iOS准备的的工具"
+  spec.summary      = "Unity_iOSProject"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-专门为iOS和Unity桥接扩展
+专门为iOS和Unity桥接扩展,方便开发者开发的终极软件，特别好用
                       DESC
 
   spec.homepage     = "https://github.com/zixinxiaohei/UnityProject"
