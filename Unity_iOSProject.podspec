@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-专门为iOS和Unity桥接扩展,方便开发者开发的终极软件，特别好用
+  专门为iOS和Unity桥接扩展,方便开发者开发的终极软件，特别好用
                       DESC
 
   spec.homepage     = "https://github.com/zixinxiaohei/UnityProject"
@@ -91,7 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Unity_iOSProject", "Unity_iOSProject/**/*.{h,m}"
+  #spec.source_files  = "Unity_iOSProject", "Unity_iOSProject/**/*.{h,m}"
+  spec.source_files  = "Unity_iOSProject/*.{h,m}"
   spec.exclude_files = "Unity_iOSProject/Exclude"
 
   # spec.public_header_files = "UnityProject/**/*.h"
