@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
 专门为iOS和Unity桥接扩展
-                   DESC
+                      DESC
 
   spec.homepage     = "https://github.com/zixinxiaohei/UnityProject"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
