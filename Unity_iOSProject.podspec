@@ -91,8 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "UnityProject", "UnityProject/**/*.{h,m}"
-  spec.exclude_files = "UnityProject/Exclude"
+  spec.source_files  = "Unity_iOSProject", "Unity_iOSProject/**/*.{h,m}"
+  spec.exclude_files = "Unity_iOSProject/Exclude"
 
   # spec.public_header_files = "UnityProject/**/*.h"
 
